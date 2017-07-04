@@ -1,6 +1,6 @@
 # Clone repository
 cd C:\
-git clone -b windows-core-attempt --single-branch https://github.com/kusma/fuselibs-public
+git clone -b windows-core-attempt --single-branch https://github.com/mdavidsen/fuselibs-public
 
 # Configure stuff and uno
 cd C:\fuselibs-public
